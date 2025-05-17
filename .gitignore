@@ -1,0 +1,13 @@
+# Arquivos e pastas do ambiente virtual Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de configuração com informações secretas (sua chave de API)
+.env
+
+# Arquivos gerados pelo Python ou editores
+*.log
+*.tmp
+.vscode/ # Opcional: se não quiser compartilhar configurações do VS Code
