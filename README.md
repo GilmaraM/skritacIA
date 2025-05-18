@@ -1,4 +1,4 @@
-# Skrita ✍️
+# Skriva ✍️
 
 [![Licença: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Opcional: Badge de Licença -->
 [![Feito com Streamlit](https://static.streamlit.io/badges/streamlit_badge_md_white.svg)](https://streamlit.io) <!-- Opcional: Badge Streamlit -->
