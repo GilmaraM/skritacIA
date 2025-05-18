@@ -9,7 +9,7 @@ Este é um **Assistente de Escrita com Inteligência Artificial** desenvolvido e
 
 Cansado da página em branco? Diga adeus ao bloqueio criativo e olá à produtividade! 💡
 O projeto foi criado para auxiliar usuários (estudantes, profissionais ou criadores de conteúdo) na criação e revisão de diversos tipos de texto, de forma rápida e eficaz.
-Skrita não é apenas um corretor ortográfico, é seu parceiro de escrita completo. Imagine ter um assistente pessoal que: Gera e organiza suas ideias com Refinamento, Edição e Adaptação de Estilo com Criatividade sem Limites. 
+Skriva não é apenas um corretor ortográfico, é seu parceiro de escrita completo. Imagine ter um assistente pessoal que: Gera e organiza suas ideias com Refinamento, Edição e Adaptação de Estilo com Criatividade sem Limites. 
  Obs: Construído para expandir sua criatividade, não para substituí-la!
 
 
