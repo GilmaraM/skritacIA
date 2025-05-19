@@ -24,7 +24,7 @@ Skriva não é apenas um corretor ortográfico, é seu parceiro de escrita compl
 
 ## Tecnologias Utilizadas
 
-*   Python
+*   Python 
 *   Streamlit
 *   Google Generative AI SDK
 *   python-dotenv
